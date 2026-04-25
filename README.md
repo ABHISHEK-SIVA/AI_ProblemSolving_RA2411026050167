@@ -6,16 +6,16 @@
 
 ---
 
-## 🔗 Live Demos
+## Live Demos
 
 | Problem                       | Live Link                                |
 | ----------------------------- | ---------------------------------------- |
-| Problem 1 — Tic-Tac-Toe AI    | _(Add Streamlit Cloud URL after deploy)_ |
-| Problem 11 — GPS Route Finder | _(Add Streamlit Cloud URL after deploy)_ |
+| Problem 1 — Tic-Tac-Toe AI    | _https://tictactoeabhi.streamlit.app/_ |
+| Problem 11 — GPS Route Finder | _https://gpsfindabhi.streamlit.app/_ |
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 AI_ProblemSolving/
@@ -189,7 +189,7 @@ cd ../Problem11_GPSRouteFinder && pip install -r requirements.txt && streamlit r
 | Feature        | Minimax                 | Alpha-Beta                    | A\*                          |
 | -------------- | ----------------------- | ----------------------------- | ---------------------------- |
 | Problem Type   | Game AI                 | Game AI                       | Pathfinding                  |
-| Completeness   | ✅ Always finds optimal | ✅ Same as Minimax            | ✅ Optimal if h admissible   |
+| Completeness   |  Always finds optimal |  Same as Minimax            |  Optimal if h admissible   |
 | Nodes Explored | All (b^d)               | Pruned (b^(d/2))              | Guided by heuristic          |
 | Speed          | Slower                  | **Faster (50–70% less work)** | **Fastest for large graphs** |
 
@@ -200,7 +200,7 @@ cd ../Problem11_GPSRouteFinder && pip install -r requirements.txt && streamlit r
 | Name          | Register Number   |
 | ------------- | ----------------- |
 | Abhishek Siva | _RA2411026050167_ |
-| Member 2      | _RA2411026050174_ |
+| Deepak B      | _RA2411026050174_ |
 
 ---
 
